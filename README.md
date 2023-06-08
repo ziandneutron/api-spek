@@ -81,7 +81,7 @@
     }
     ```
 
-### Response
+### Response Success
 - Status : `200`
 
     ```
@@ -94,5 +94,14 @@
             email: "user@test.local",
             name: "User Test"
         }
+    }
+    ```
+
+### Response Failed
+- Status : `401`
+
+    ```
+    {
+        message: "unauthorized"
     }
     ```
