@@ -58,7 +58,14 @@
         }
     }
     ```
+### Response Failed
+- Status : `401`
 
+    ```
+    {
+        message: "unauthorized"
+    }
+    ```
 ---
 
 
