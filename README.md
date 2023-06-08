@@ -85,14 +85,8 @@
 
     ```
     {
-        token: {
-            accessToken: "kshdjhisah829r745dsfhsjkdhfdsf",
-            refreshToken: "kshdjhisah829r745dsfhsjk123dsf"
-        } 
-        user: {
-            email: "user@test.local",
-            name: "User Test"
-        }
+        email: "user@test.local",
+        name: "User Test"
     }
     ```
 
