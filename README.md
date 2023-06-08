@@ -79,14 +79,6 @@
         Authorization: "Bearer kshdjhisah829r745dsfhsjkdhfdsf"
     }
     ```
-- Body : 
-
-    ```
-    {
-        email: "user@test.local",
-        password: "123123"
-    }
-    ```
 
 ### Response Success
 - Status : `200`
